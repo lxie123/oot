@@ -8,9 +8,9 @@ on:
         required: true
         type: choice
         options:
-          - 'k0rdent-oot/catalog'
+          - 'lxie123/catalog'
           - 'k0rdent/catalog'
-        default: 'k0rdent-oot/catalog'
+        default: 'lxie123/catalog'
       ref:
         description: 'Branch, tag or SHA to checkout'
         type: string
